@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4949b3a1.css",
+    "main.js": "./static/js/main.e4347c6d.js",
+    "static/js/714.6ac73b8d.chunk.js": "./static/js/714.6ac73b8d.chunk.js",
+    "static/js/91.86dafc81.chunk.js": "./static/js/91.86dafc81.chunk.js",
+    "static/js/139.1380d6ca.chunk.js": "./static/js/139.1380d6ca.chunk.js",
+    "static/js/428.7c05eafc.chunk.js": "./static/js/428.7c05eafc.chunk.js",
+    "static/js/802.f14da9e2.chunk.js": "./static/js/802.f14da9e2.chunk.js",
+    "static/js/413.bd55a722.chunk.js": "./static/js/413.bd55a722.chunk.js",
+    "static/js/703.1eec434d.chunk.js": "./static/js/703.1eec434d.chunk.js",
+    "static/js/513.bdcf6c0c.chunk.js": "./static/js/513.bdcf6c0c.chunk.js",
+    "static/js/616.71ae4d1e.chunk.js": "./static/js/616.71ae4d1e.chunk.js",
+    "static/media/health-management-tech-system-logo.jpg": "./static/media/health-management-tech-system-logo.58a67d741e54dc057b98.jpg",
+    "static/media/health-management-tech-system.png": "./static/media/health-management-tech-system.f875b2e7b45ec2cdaafe.png",
+    "static/media/health-management-tech-system-inventory.jpg": "./static/media/health-management-tech-system-inventory.f6d917bdbb4e62736f47.jpg",
+    "static/media/health-management-tech-system-shop.jpg": "./static/media/health-management-tech-system-shop.76c2d732b087ec9376c5.jpg",
+    "static/media/health-management-tech-system-expenses.jpg": "./static/media/health-management-tech-system-expenses.67678af913d0f0140430.jpg",
+    "static/media/health-management-tech-system-patient.jpg": "./static/media/health-management-tech-system-patient.20fd0a25318a174b6383.jpg",
+    "static/media/health-management-tech-system-health.jpg": "./static/media/health-management-tech-system-health.70f5b57485da7bd2d4aa.jpg",
+    "static/media/health-management-tech-system-staff.jpg": "./static/media/health-management-tech-system-staff.20dd2c07518d4511f4d6.jpg",
+    "index.html": "./index.html",
+    "main.4949b3a1.css.map": "./static/css/main.4949b3a1.css.map",
+    "main.e4347c6d.js.map": "./static/js/main.e4347c6d.js.map",
+    "714.6ac73b8d.chunk.js.map": "./static/js/714.6ac73b8d.chunk.js.map",
+    "91.86dafc81.chunk.js.map": "./static/js/91.86dafc81.chunk.js.map",
+    "139.1380d6ca.chunk.js.map": "./static/js/139.1380d6ca.chunk.js.map",
+    "428.7c05eafc.chunk.js.map": "./static/js/428.7c05eafc.chunk.js.map",
+    "802.f14da9e2.chunk.js.map": "./static/js/802.f14da9e2.chunk.js.map",
+    "413.bd55a722.chunk.js.map": "./static/js/413.bd55a722.chunk.js.map",
+    "703.1eec434d.chunk.js.map": "./static/js/703.1eec434d.chunk.js.map",
+    "513.bdcf6c0c.chunk.js.map": "./static/js/513.bdcf6c0c.chunk.js.map",
+    "616.71ae4d1e.chunk.js.map": "./static/js/616.71ae4d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4949b3a1.css",
+    "static/js/main.e4347c6d.js"
+  ]
+}
